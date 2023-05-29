@@ -1,0 +1,14 @@
+.Feeds {
+  width: 75%;
+  margin-left: 3px;
+  color: azure;
+}
+.Feed {
+  display: flex;
+  padding-left: 70px;
+  background-color: black;
+  height: 90px;
+  font-size: 15px;
+  text-decoration: underline #2b59d7;
+  margin-bottom: 5px;
+}

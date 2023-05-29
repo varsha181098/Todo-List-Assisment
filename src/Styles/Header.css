@@ -1,0 +1,11 @@
+.header {
+  background-color: rgb(61, 110, 225);
+  color: aliceblue;
+  height: 50px;
+  font-size: 18px;
+}
+nav {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
